@@ -10,7 +10,7 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/seanjerve) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/seanjerve) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:seanjerverebancos@gmail.com) 
 
-### 💰 Help me by Donating!
+## 💰 Help me by Donating!
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/seanjerve) 
   
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
