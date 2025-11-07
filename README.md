@@ -26,11 +26,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeanJerve&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeanJerve&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=SeanJerve&theme=tokyonight)
-
-
 
 ## Help me by Donating!
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/seanjerve) 
