@@ -1,6 +1,11 @@
 # Hi, I'm Sean Jerve 👨🏻‍💻
 
+
 ![My Portfolio : https://sean-jerve.vercel.app](https://shields.io)](https://sean-jerve.vercel.app/)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
+
+[![Portfolio](https://shields.io)](https://sean-jerve.vercel.app/)
+
 
 
 
