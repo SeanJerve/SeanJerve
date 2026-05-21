@@ -1,11 +1,10 @@
 # Hi, I'm Sean Jerve 👨🏻‍💻
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sean-jerve.vercel.app/)
 
-![My Portfolio : https://sean-jerve.vercel.app](https://shields.io)](https://sean-jerve.vercel.app/)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
+[![Personal Website](https://img.shields.io/badge/Personal_Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sean-jerve.vercel.app/)
 
-[![Portfolio](https://shields.io)](https://sean-jerve.vercel.app/)
-
+[![Website](https://img.shields.io/badge/Website-%23117AC9.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://sean-jerve.vercel.app/)
 
 
 
