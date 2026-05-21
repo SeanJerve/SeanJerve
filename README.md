@@ -1,6 +1,6 @@
 # Hi, I'm Sean Jerve 👨🏻‍💻
 
-[![View my Personal Website: https://sean-jerve.vercel.app](https://img.shields.io/badge/Personal_Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sean-jerve.vercel.app/)
+[![Personal Website](https://img.shields.io/badge/Website-sean--jerve.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sean-jerve.vercel.app/)
 
 ⌨️ Front-End Web Developer <br/>
 🌐 WordPress Developer <br/>
