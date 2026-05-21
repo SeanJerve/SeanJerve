@@ -1,6 +1,7 @@
 # Hi, I'm Sean Jerve 👨🏻‍💻
 
-[`My Portfolio`](https://sean-jerve.vercel.app/)
+[![Website](https://shields.io)](https://sean-jerve.vercel.app/)
+
 
 
 
