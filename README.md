@@ -1,6 +1,7 @@
 # Hi, I'm Sean Jerve 👨🏻‍💻
 
-[Portfolio](https://sean-jerve.vercel.app/ "Click to view Sean Jerve's portfolio")
+[`My Portfolio`](https://sean-jerve.vercel.app/)
+
 
 
 
