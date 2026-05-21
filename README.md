@@ -1,6 +1,7 @@
 # Hi, I'm Sean Jerve 👨🏻‍💻
 
-[Visit my website](https://sean-jerve.vercel.app/)
+[Portfolio](https://sean-jerve.vercel.app/ "Click to view Sean Jerve's portfolio")
+
 
 
 ⌨️ Front-End Web Developer <br/>
