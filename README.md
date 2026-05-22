@@ -1,10 +1,7 @@
-<div>
-
 # Hi, I'm Sean Jerve
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1000&color=117AC9&center=true&vCenter=true&lines=Front-End+Web+Developer;WordPress+Developer;Information+Technology+Student+at+BU" alt="Roles" />
-</a>
+<code>Front-End Web Developer | WordPress Developer | Information Technology Student at BU</code>
+
 <br/>
 
 [![Personal Website](https://img.shields.io/badge/Website-sean--jerve.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sean-jerve.vercel.app/) 
@@ -12,8 +9,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seanjerve/)
 [![Upwork](https://img.shields.io/badge/Upwork-%2314A800.svg?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~013c733a9844bb5c24?mp_source=share)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/seanjerver)
-
-</div>
 
 ---
 
@@ -43,7 +38,9 @@
 ---
 
 ### Support My Work
+
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/seanjerve) 
   
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+[![](https://visitcount.itsvg.in/api?id=SeanJerve&icon=0&color=0)](https://visitcount.itsvg.in)
