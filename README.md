@@ -1,4 +1,4 @@
-# Hi, I'm Sean Jerve
+# <code>Hi, I'm Sean Jerve </code>
 
 <code>Front-End Web Developer | WordPress Developer | Information Technology Student at BU</code>
 
