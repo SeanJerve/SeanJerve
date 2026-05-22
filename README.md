@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Personal Website](https://img.shields.io/badge/Website:-sean--jerve.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sean-jerve.vercel.app/) 
+[![Personal Website](https://img.shields.io/badge/Website:-sean--jerve.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000)](https://sean-jerve.vercel.app/)
 <br/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seanjerve/)
 [![Upwork](https://img.shields.io/badge/Upwork-%2314A800.svg?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~013c733a9844bb5c24?mp_source=share)
